@@ -1,2 +1,8 @@
-* Omonia Cafe
-* Something Greek
+## European --> Greek
+---
+Select a restaurant:
+## [Omonia Cafe](https://omoniacafe.com/)
+---
+[Back to European](european.md)
+
+[Start Over](../home.md)
