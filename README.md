@@ -9,8 +9,8 @@ Click [here](home.md) to begin!
 
 ## Task 0: Study the directory structure
 
-1. Observe the files that are in the root directory of this repository:  
-  a. `README.md` is these directions  
+1. Observe the files that are in the root directory of this repository:
+  a. `README.md` is these directions
   b. `home.md` is where the user begins
 2. Explore the folders and the files inside of them.
 
@@ -44,7 +44,7 @@ This will be the workflow for most _(but not all)_ pair activities. `Git` used t
     * See `american.md` for examples
 * **Start over** --> _needs to go to_ --> `home.md` (for all files)
 
-NOTE: You are doing this collaboratively!  Split up the work, add/commit/push, and pull & resolve conflicts when necessary.  This activity serves two purposes: **practice linking files** and **practice collaboration**.
+NOTE: You are doing this collaboratively!  Split up the work, add/commit/push, and pull & resolve conflicts when necessary. activity serves two purposes: **practice linking files** and **practice collaboration**.
 
 ---
 
