@@ -3,7 +3,7 @@
 ---
 Select a restaurant:
 ## [Omonia Cafe](https://omoniacafe.com/)
-## [Something Greek](https://somethinggreekonline.com/)
+## [Something Greek](https://somethingreekonline.com/)
 ---
 [Back to European](european.md)
 
